@@ -266,11 +266,16 @@ for iT in listoftemplates:
             soup.meta.append(linktoadd)
         else:
             continue
-
-    if WebsitTitle in soup.title.string:
-        continue
+    
+    try:
+        if WebsitTitle in soup.title.string:
+            continue
+        else:
+            soup.title.string = WebsitTitle
+    except AttributeError:
+        soup.title = WebsitTitle
     else:
-        soup.title.string = WebsitTitle
+        print(f'\n\n\n This Is The Error In Title \n\n\n')
 
     print("Editing All Links In: {}".format(iT))
     for link in soup.find_all('link',{"href":True}):

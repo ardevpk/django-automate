@@ -1,0 +1,97 @@
+For: sheheryar.
+Total Days=0,  Total Hours=0:0:0
+
+
+For: Saim.
+Total Days=0,  Total Hours=0:0:0
+
+
+For: AbdulRehman.
+Total Days=0,  Total Hours=0:0:0
+
+
+For: ShakeelRiaz.
+Date: 2022-10-05,  Working Hours=08:31:37
+Date: 2022-10-10,  Working Hours=08:15:29
+Date: 2022-10-11,  Working Hours=08:20:53
+Date: 2022-10-12,  Working Hours=09:01:02
+Date: 2022-10-17,  Working Hours=08:43:59
+Date: 2022-10-18,  Working Hours=10:13:05
+Date: 2022-10-19,  Working Hours=09:46:12
+Date: 2022-10-21,  Working Hours=06:33:47
+Date: 2022-10-24,  Working Hours=08:40:30
+Date: 2022-10-25,  Working Hours=10:27:55
+Date: 2022-10-28,  Working Hours=05:37:11
+Total Days=11,  Total Hours=94:11:40
+
+
+For: NawafRehman.
+Date: 2022-10-07,  Working Hours=00:00:22
+Date: 2022-10-17,  Working Hours=04:36:12
+Date: 2022-10-18,  Working Hours=09:20:15
+Date: 2022-10-19,  Working Hours=08:21:14
+Date: 2022-10-20,  Working Hours=08:05:33
+Date: 2022-10-21,  Working Hours=09:00:01
+Date: 2022-10-28,  Working Hours=08:36:47
+Total Days=7,  Total Hours=48:0:24
+
+
+For: HammadSadiq.
+Date: 2022-10-10,  Working Hours=09:34:09
+Date: 2022-10-11,  Working Hours=09:38:14
+Date: 2022-10-12,  Working Hours=09:17:04
+Date: 2022-10-13,  Working Hours=09:15:47
+Date: 2022-10-14,  Working Hours=09:33:14
+Date: 2022-10-17,  Working Hours=09:20:58
+Date: 2022-10-18,  Working Hours=09:10:29
+Date: 2022-10-19,  Working Hours=09:34:09
+Date: 2022-10-20,  Working Hours=09:44:55
+Date: 2022-10-21,  Working Hours=08:51:24
+Date: 2022-10-24,  Working Hours=09:06:28
+Date: 2022-10-26,  Working Hours=09:06:32
+Date: 2022-10-27,  Working Hours=11:25:43
+Date: 2022-10-28,  Working Hours=08:36:05
+Total Days=14,  Total Hours=132:15:11
+
+
+For: TahaSiddiqui.
+Date: 2022-10-26,  Working Hours=07:44:56
+Date: 2022-10-27,  Working Hours=10:43:29
+Date: 2022-10-28,  Working Hours=09:19:09
+Total Days=3,  Total Hours=27:47:34
+
+
+For: ArslanRaza.
+Date: 2022-10-25,  Working Hours=07:36:11
+Date: 2022-10-26,  Working Hours=08:48:40
+Date: 2022-10-27,  Working Hours=04:50:30
+Date: 2022-10-28,  Working Hours=07:06:33
+Total Days=4,  Total Hours=28:21:54
+
+
+For: MubeenAhmad.
+Date: 2022-10-25,  Working Hours=07:49:58
+Date: 2022-10-26,  Working Hours=08:45:11
+Date: 2022-10-28,  Working Hours=06:04:33
+Total Days=3,  Total Hours=22:39:42
+
+
+For: NadeemJavied.
+Date: 2022-10-26,  Working Hours=10:06:45
+Date: 2022-10-27,  Working Hours=10:55:52
+Date: 2022-10-28,  Working Hours=08:06:39
+Total Days=3,  Total Hours=29:9:16
+
+
+For: AsadAli.
+Date: 2022-10-25,  Working Hours=08:48:13
+Date: 2022-10-26,  Working Hours=08:28:10
+Date: 2022-10-27,  Working Hours=08:49:13
+Date: 2022-10-28,  Working Hours=08:08:28
+Total Days=4,  Total Hours=34:14:4
+
+
+For: TahirBahoo.
+Date: 2022-10-25,  Working Hours=09:20:45
+Date: 2022-10-27,  Working Hours=08:55:02
+Total Days=2,  Total Hours=18:15:47
